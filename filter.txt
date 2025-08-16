@@ -1,3 +1,4 @@
 #filter_list
 ||youtube.com^
 ||x.com^
+||m.youtube.com^
