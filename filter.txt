@@ -2,3 +2,4 @@
 ||youtube.com^
 ||x.com^
 ||m.youtube.com^
+||uise-official.com^
