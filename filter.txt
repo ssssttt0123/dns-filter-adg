@@ -7,3 +7,4 @@
 ||nightmare-salon.com^
 ||ichicomi.com^
 ||baidu.com^
+||croxyproxy.com^
