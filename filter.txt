@@ -10,3 +10,4 @@
 ||croxyproxy.com^
 ||proxyium.com^
 ||vpngate.net^
+||blockaway.net^
