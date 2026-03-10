@@ -9,3 +9,4 @@
 ||baidu.com^
 ||croxyproxy.com^
 ||proxyium.com^
+||vpngate.net^
