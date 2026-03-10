@@ -8,3 +8,4 @@
 ||ichicomi.com^
 ||baidu.com^
 ||croxyproxy.com^
+||proxyium.com^
