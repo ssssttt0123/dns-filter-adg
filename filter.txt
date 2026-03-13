@@ -11,3 +11,4 @@
 ||proxyium.com^
 ||vpngate.net^
 ||blockaway.net^
+||game.mahjongsoul.com^
